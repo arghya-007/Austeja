@@ -6,4 +6,4 @@ Stacks used -
 4)JS
 
 Give it a star if you like it!!!
-Clone it and edit it according to yur will!
+Clone it and edit it according to your will!
